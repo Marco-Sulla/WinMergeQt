@@ -1,7 +1,7 @@
 # WinMergeQt
 Qt Interface for WinMerge, to make it portable to other OSes
 
-##To contribute
+## To contribute
 
 1. Clone the repository
 2. Download [Qt Creator](https://www.qt.io/download-qt-installer) and install it
